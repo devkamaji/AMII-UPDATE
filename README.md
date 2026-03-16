@@ -2,7 +2,7 @@
     <img height="256px" src="https://amii.assets.unthrottled.io/visuals/mocking/aqua_mocking_laugh.gif" ></img>
 </div>
 
-# AMII (Anime Meme IDE Integration)
+# AMII (Anime Meme IDE Integration - versao de update)
 
 ![Build](https://github.com/ani-memes/AMII/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/15865-amii.svg)](https://plugins.jetbrains.com/plugin/15865-amii)
